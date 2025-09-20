@@ -1,0 +1,62 @@
+{
+    "settings": {
+        "mouse_x": 1252,
+        "mouse_y": 938,
+        "capture_x": 859,
+        "capture_y": 872,
+        "ace_disc_x": 944,
+        "ace_disc_y": 322,
+        "use_disk_x": 878,
+        "use_disk_y": 751,
+        "no_button_x": 1496,
+        "no_button_y": 709,
+        "header_topleft_x": 699,
+        "header_topleft_y": 816,
+        "header_bottomright_x": 1010,
+        "header_bottomright_y": 925,
+        "ocr_topleft_x": 1649,
+        "ocr_topleft_y": 256,
+        "ocr_bottomright_x": 1857,
+        "ocr_bottomright_y": 298,
+        "photo_topleft_x": 1009,
+        "photo_topleft_y": 0,
+        "photo_bottomright_x": 1919,
+        "photo_bottomright_y": 750,
+        "action_scan_topleft_x": 1377,
+        "action_scan_topleft_y": 664,
+        "action_scan_bottomright_x": 1619,
+        "action_scan_bottomright_y": 761,
+        "AHK_PATH": "C:\\Program Files\\AutoHotkey\\v2\\AutoHotkey64.exe",
+        "AHK_SCRIPT": "C:/Users/abdy2/OneDrive/Desktop/New folder (6)/roblox_activate_click.ahk",
+        "AHK_RUNAWAY_SCRIPT": "C:/Users/abdy2/OneDrive/Desktop/New folder (6)/roblox_activate_click.ahk",
+        "pause_hotkey": "f8",
+        "photo_match_threshold": 0.85,
+        "WEBHOOK_URLS": [],
+        "theme": "vapor",
+        "TESSERACT_PATH": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+        "show_live_vision": true,
+        "ITEMS_HEADER_PATH": "C:\\Users\\abdy2\\OneDrive\\Desktop\\New folder (6)\\bot_assets\\items_header.png",
+        "ACE_DISC_PATH": "C:\\Users\\abdy2\\OneDrive\\Desktop\\New folder (6)\\bot_assets\\ace_disc.png",
+        "USE_IMAGE_PATH": "C:\\Users\\abdy2\\OneDrive\\Desktop\\New folder (6)\\bot_assets\\use_button.png",
+        "NO_BUTTON_IMAGE_PATH": "C:\\Users\\abdy2\\OneDrive\\Desktop\\New folder (6)\\bot_assets\\no_button.png",
+        "special_capture_forms": [
+            "gamma",
+            "alpha"
+        ],
+        "run_away_forms": [
+            "base"
+        ],
+        "overlay_alpha": 0.2,
+        "overlay_clickthrough": true,
+        "overlay_min_duration": 5,
+        "topleft_x": 896,
+        "topleft_y": 484,
+        "bottomright_x": 896,
+        "bottomright_y": 484,
+        "dark_mode": true
+    },
+    "names_data": {
+        "data": {},
+        "name_order": []
+    }
+}

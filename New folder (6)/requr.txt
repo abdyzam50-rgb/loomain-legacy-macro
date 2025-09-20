@@ -1,0 +1,10 @@
+ttkbootstrap
+Pillow
+opencv-python
+numpy
+pytesseract
+keyboard
+requests
+scikit-image
+pyautogui
+pywin32
